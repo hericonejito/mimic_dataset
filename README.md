@@ -1,4 +1,4 @@
-# Safe, Effective and Explainable Drug Recommendationbased on Medical Data Integration
+# Safe, Effective and Explainable Drug Recommendation based on Medical Data Integration
 Various recommendation methods for MIMIC dataset
 
 ## Installation
