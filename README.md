@@ -1,4 +1,4 @@
-# mimic_dataset
+# Safe, Effective and Explainable Drug Recommendationbased on Medical Data Integration
 Various recommendation methods for MIMIC dataset
 
 ## Installation
